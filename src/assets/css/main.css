@@ -5,8 +5,18 @@
 
 * {
     font-family: LTSaeada;
+    color:white;
 }
 
-.mie-textcolorwhite {
-    color: white;
+.mie-homePageLogo{
+    width: 100%;
+}
+
+.mie-instaqr{
+    max-width: 150px;
+}
+
+.mie-tiktok{
+    max-width: 780px; 
+    min-width: 288px;
 }
